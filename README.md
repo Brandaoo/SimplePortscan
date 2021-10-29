@@ -4,7 +4,7 @@
 [Simple Port scan](https://github.com/Brandaoo/SimplePortscan/) this is a a portscan created in python , in the simple way for everyone undestende how that's work,
 you can get that code and make what you want , enjoy and have a great study.
 
-## Related Resources
+
 
 
 
