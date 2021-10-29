@@ -19,10 +19,3 @@ for port in range(1, 65535):
 
 
 		print(ip, "====>" , port, "is open")
-
-
-
-
-
-
-
